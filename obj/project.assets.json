@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SenlaTask1\\SenlaTask1.csproj",
+      "projectUniqueName": "C:\\Users\\Windo\\Source\\Repos\\SenlaTask179\\SenlaTask1.csproj",
       "projectName": "SenlaTask1",
-      "projectPath": "D:\\SenlaTask1\\SenlaTask1.csproj",
+      "projectPath": "C:\\Users\\Windo\\Source\\Repos\\SenlaTask179\\SenlaTask1.csproj",
       "packagesPath": "C:\\Users\\Windo\\.nuget\\packages\\",
-      "outputPath": "D:\\SenlaTask1\\obj\\",
+      "outputPath": "C:\\Users\\Windo\\Source\\Repos\\SenlaTask179\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
